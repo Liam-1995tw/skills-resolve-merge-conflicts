@@ -1,6 +1,5 @@
 # GitHub Teacher
-Hello from main branch (conflict test)
-Hello from main branch (conflict test)
+6666666666666666
 Charting the knowledge of the Internet, just like Galileo charted the stars.
 
 ## Jobs
